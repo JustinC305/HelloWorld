@@ -1,4 +1,5 @@
 # Instructions for use with GitHub Desktop Client
+ README
 1. Clone this repository
   This will copy all current files into C:/yourusername/Documents/GitHub/"repository name here"
  
@@ -7,3 +8,4 @@
  4. Commit those changes
  5. Publish, to push changes to the server
  6. Create a pull request, and wait for changes to be merged with the main branch.
+main
