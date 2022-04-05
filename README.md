@@ -6,3 +6,4 @@
  3. Make changes to said file within the HelloWorld folder
  4. Commit those changes
  5. Publish, to push changes to the server
+ 6. Create a pull request, and wait for changes to be merged with the main branch.
